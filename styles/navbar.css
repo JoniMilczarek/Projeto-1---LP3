@@ -1,0 +1,31 @@
+html, body {
+  font-family: 'ABeeZee';
+}
+.nav-body {
+  padding: 1.6em;
+  background: linear-gradient(to bottom, #0055ab 0%, #455697 100%);
+  box-shadow: 0 4px 4px rgba(0,0,0,0.15);
+  position: relative;
+}
+.nav-title {
+  margin-left: 8%;
+  color: white;
+  font-weight: bold;
+  font-size: 2em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+.nav-links {
+  margin-right: 13%;
+  margin-top: calc(43px - 35px);
+  float: right;
+}
+.nav-links li {
+  display: inline;
+}
+.nav-links li a {
+  padding-left: .8em;
+  color: white;
+  text-decoration: none;
+  font-size: 1.3em;
+}
