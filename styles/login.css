@@ -15,12 +15,13 @@ html, body {
   border-radius: 15px;
   left: 20%;
   position: absolute;
-  padding-top: 3em;
+  padding-top: 2.5em;
   padding-left: 4em;
   padding-right: 4em;
   padding-bottom: 2.5em;
   background: linear-gradient(rgb(30,144,255) 0%, rgb(135,206,235) 100%);
   border: solid .23em whitesmoke;
+  margin-top: 2%;
 }
 .campos {
   margin-top: 5%;
@@ -46,7 +47,6 @@ button {
 }
 button:hover {
   transition: .5s;
-  padding: 1em;
   padding-left: 2.7em;
   padding-right: 2.7em;
   background-color: whitesmoke;
