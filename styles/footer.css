@@ -2,3 +2,10 @@
   padding: 4em;
   background: linear-gradient(to top, #0055ab 0%, #455697 100%);
 }
+
+.footer i {
+	color:white;
+	margin-right: 10px;
+	font-size: 2em;
+}
+

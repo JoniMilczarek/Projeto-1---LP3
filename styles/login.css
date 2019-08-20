@@ -1,0 +1,41 @@
+html, body {
+  height: 100%;
+  background: linear-gradient(#0055ab 0%, #455697 100%);
+}
+.content {
+  position: relative;
+  text-align: center;
+  height: 100%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+.inputs {
+  top: 29%;
+  border-radius: 15px;
+  left: 21%;
+  position: absolute;
+  padding-top: 3em;
+  padding-left: 4em;
+  padding-right: 4em;
+  padding-bottom: 2.5em;
+  background-color: purple;
+}
+.campos {
+  margin-top: 5%;
+  font-size: 1em;
+}
+label {
+  font-size: 1.3em;
+}
+button {
+  margin-top: 8%;
+  font-size: 1.2em;
+  padding: .5em;
+  padding-left: .8em;
+  padding-right: .8em;
+  border-radius: 10px;
+}
+h1 {
+  margin-bottom: 5%;
+  font-size: 3em;
+}
