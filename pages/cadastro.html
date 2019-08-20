@@ -6,6 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="../styles/reset.css">
     <link rel="stylesheet" href="../styles/cadastro.css">
+    <link href="https://fonts.googleapis.com/css?family=ABeeZee&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
     <title>Cadastro</title>
 </head>
@@ -14,30 +16,30 @@
         <div class="background">
             <h1 id="titulo">CADASTRO</h1>
             <label for="">
-                Nome completo: 
-                <input type="text" class="input">
+               <!--- Nome completo: -->
+                <input type="text" class="input" placeholder = "NOME COMPLETO">
+            </label>
+            <label for="">
+                <!---Email: -->
+                <input type="email" name="Email" id="" class="input" placeholder = "EMAIL">
             </label></br>
             <label for="">
-                Email: 
-                <input type="email" name="Email" id="" class="input">
+                <!---CPF: -->
+                <input type="text" class="input" placeholder = "CPF">
+            </label>
+            <label for="">
+                <!---Data de aniversário: -->
+                <input type="date" name="Data de aniversário" id="date" class="input" placeholder = "DATE OF BIRD">
             </label></br>
             <label for="">
-                    CPF: 
-                    <input type="text" class="input">
-                </label></br>
+                <!--- Senha: -->
+                <input type="password" name="Senha" id="" class="input" placeholder="SENHA">
+            </label>
             <label for="">
-                Data de aniversário: 
-                <input type="date" name="Data de aniversário" id="" class="input">
+                <!--- Repita a senha: -->
+                <input type="password" name="Repetir senha" id="" class="input" placeholder = "REPITA A SENHA">
             </label></br>
-            <label for="">
-                Senha: 
-                <input type="password" name="Senha" id="" class="input">
-            </label></br>
-            <label for="">
-                    Repita a senha: 
-                    <input type="password" name="Repetir senha" id="" class="input">
-            </label><!---
-            --><button id="botao">Enviar</button>
+            <button id="botao">ENVIAR</button>
         </div>
     </main>
 </body>
