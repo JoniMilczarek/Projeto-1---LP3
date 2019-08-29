@@ -62,8 +62,8 @@ h1 {
   font-family: 'Roboto', 'sans-serif';
 }
 .correto {
-  color: red;
+  border-color: lightgreen;
 }
-.incorre {
-  color: red;
+.incorreto {
+  border-color: FireBrick;
 }
