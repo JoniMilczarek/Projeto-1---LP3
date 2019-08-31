@@ -61,3 +61,9 @@ html, body {
 	cursor: pointer;
 	border-radius: 5px;
 }
+.correto {
+	border-color: lightgreen !important;
+  }
+  .incorreto {
+	border-color: FireBrick !important;
+  }
