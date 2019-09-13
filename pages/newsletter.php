@@ -1,4 +1,9 @@
-<?php include("header.php"); ?>
+<?php include("header.php");
+$teste = "";
+var_dump($teste);
+die();
+
+?>
 <main class="background">
 	<div class="container-box">
 		<section class="section-imgs">
