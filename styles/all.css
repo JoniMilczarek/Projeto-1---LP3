@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+.pattern {
+  display: contents;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+.head-fot {
+  position: fixed;
+  bottom: 0;
+}

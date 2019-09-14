@@ -1,15 +1,10 @@
-.footer {
-	position: fixed;
-	left:0px;
-	bottom:0px;
-	padding: 4em;
-	background: linear-gradient(to top, #0055ab 0%, #455697 100%);
-	width: 100%;
+html {
+  overflow-y: hidden; 
+  overflow-x: hidden; 
 }
-
-.footer i {
-	color:white;
-	margin-right: 10px;
-	font-size: 2em;
+footer {
+  background: linear-gradient(to bottom, #0055ab 0%, #455697 100%);
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
-
