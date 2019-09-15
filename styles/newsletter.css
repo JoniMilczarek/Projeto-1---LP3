@@ -1,20 +1,28 @@
+html, body {
+    height: 100%;
+}
 .row {
     width: 80% !important;
-    margin-right: 20% !important;
-    margin-left: 0% !important;
-  }
-  .titulo-newslatter {
+    margin-left: 18.5% !important;
+    margin-right: 18.5% !important;
+ }
+.titulo-newslatter {
     text-align: center;
-    margin-top: -3%;
-  }
-  label {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+label {
     font-size: 1.3em !important;
-  }
-  input {
+}
+input {
     font-size: 1.2em !important;
-  }
-  button {
+}
+button {
     background-color: #0055ab !important;
-    width: 79%;
-    margin-left: 10.6%;
-  }
+    width: 51%;
+    margin-top: 2.5%;
+    margin-bottom: 5%;
+}
+.page {
+      height: auto;
+}

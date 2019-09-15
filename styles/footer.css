@@ -7,6 +7,10 @@ footer {
   position: fixed;
   bottom: 0;
   width: 100%;
+  margin-bottom:0;
+}
+.footer-copyright {
+  position: relative;
 }
 .icons {
   font-size: 2em !important;
@@ -14,6 +18,25 @@ footer {
   margin-left: .5em;
   color: whitesmoke;
 }
+.newsletter-icon {
+  font-size: 2em !important;
+  margin-left: .5em;
+  color: whitesmoke;
+  margin-left: 60%;
+  margin-top: 10px;
+}
 .cop {
   margin-left: 17.8% !important;
+}
+.icon{
+  display: inline;
+  font-size: 1.2em;
+  margin-left: 3%;
+}
+.newsletter-icon {
+  display: inline;
+}
+.copy {
+  display: inline;
+  font-size: 1.2em;
 }
