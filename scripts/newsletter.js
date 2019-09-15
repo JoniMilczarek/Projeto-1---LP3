@@ -1,3 +1,12 @@
+function teste() {
+	var email =  document.querySelector(".email");
+	email.addEventListener('click', ()=> {
+		console.log("Email foi clicado");
+		
+	});
+}
+teste();
+
 function validateMail() {
 	var emailInput = document.getElementById("mail");
 	var value = emailInput.value;
