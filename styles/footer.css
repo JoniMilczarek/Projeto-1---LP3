@@ -8,3 +8,12 @@ footer {
   bottom: 0;
   width: 100%;
 }
+.icons {
+  font-size: 2em !important;
+  margin-top: 10%;
+  margin-left: .5em;
+  color: whitesmoke;
+}
+.cop {
+  margin-left: 17.8% !important;
+}
