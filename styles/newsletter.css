@@ -7,20 +7,3 @@
     margin-top: 5%;
     margin-bottom: 5%;
 }
-label {
-    font-size: 1.3em !important;
-}
-input {
-    font-size: 1.2em !important;
-    width: 51% !important;
-    margin-bottom: 5% !important;
-}
-button {
-    background-color: #0055ab !important;
-    width: 51%;
-    margin-top: 5%;
-    margin-bottom: 5%;
-}
-.page {
-      height: auto;
-}
