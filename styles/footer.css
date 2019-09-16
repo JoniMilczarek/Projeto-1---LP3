@@ -29,7 +29,6 @@ footer {
   font-size: 2em !important;
   margin-left: .5em;
   color: whitesmoke;
-  margin-left: 60%;
   margin-top: 10px;
 }
 .cop {
@@ -38,4 +37,7 @@ footer {
 .copy {
   display: inline;
   font-size: 1.2em;
+}
+.div-icon {
+  margin-left: 50%;
 }

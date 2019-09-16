@@ -1,7 +1,4 @@
-html, body {
-    height: 100%;
-}
-.row {
+.page-content {
     width: 80% !important;
     margin-left: 18.5% !important;
     margin-right: 18.5% !important;
@@ -16,11 +13,13 @@ label {
 }
 input {
     font-size: 1.2em !important;
+    width: 51% !important;
+    margin-bottom: 5% !important;
 }
 button {
     background-color: #0055ab !important;
     width: 51%;
-    margin-top: 2.5%;
+    margin-top: 5%;
     margin-bottom: 5%;
 }
 .page {
