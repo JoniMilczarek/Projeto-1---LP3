@@ -12,6 +12,13 @@ footer {
 .footer-copyright {
   position: relative;
 }
+.mail {
+  vertical-align: -30%;
+}
+.mailer {
+  font-size: 1.1em;
+  color: whitesmoke;
+}
 .icons {
   font-size: 2em !important;
   margin-top: 10%;
@@ -27,14 +34,6 @@ footer {
 }
 .cop {
   margin-left: 17.8% !important;
-}
-.icon{
-  display: inline;
-  font-size: 1.2em;
-  margin-left: 3%;
-}
-.newsletter-icon {
-  display: inline;
 }
 .copy {
   display: inline;
