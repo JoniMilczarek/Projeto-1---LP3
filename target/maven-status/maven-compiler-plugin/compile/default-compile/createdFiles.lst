@@ -1,0 +1,5 @@
+com\mycompany\talentomotoracing\Pessoa_.class
+com\mycompany\talentomotoracing\service\PessoaFacadeREST.class
+com\mycompany\talentomotoracing\service\AbstractFacade.class
+com\mycompany\talentomotoracing\Pessoa.class
+com\mycompany\talentomotoracing\service\ApplicationConfig.class

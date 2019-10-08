@@ -1,0 +1,20 @@
+.row {
+  width: 80% !important;
+  margin-right: 10% !important;
+  margin-left: 10% !important;
+}
+.titulo-cadastro {
+  text-align: center;
+  margin-top: -3%;
+}
+label {
+  font-size: 1.3em !important;
+}
+input {
+  font-size: 1.2em !important;
+}
+button {
+  background-color: #0055ab !important;
+  width: 79%;
+  margin-left: 10.6%;
+}

@@ -1,0 +1,43 @@
+html {
+  overflow-y: hidden; 
+  overflow-x: hidden; 
+}
+footer {
+  background: linear-gradient(to bottom, #0055ab 0%, #455697 100%);
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  margin-bottom:0;
+}
+.footer-copyright {
+  position: relative;
+}
+.mail {
+  vertical-align: -30%;
+}
+.mailer {
+  font-size: 1.1em;
+  color: whitesmoke;
+}
+.icons {
+  font-size: 2em !important;
+  margin-top: 10%;
+  margin-left: .5em;
+  color: whitesmoke;
+}
+.newsletter-icon {
+  font-size: 2em !important;
+  margin-left: .5em;
+  color: whitesmoke;
+  margin-top: 10px;
+}
+.cop {
+  margin-left: 17.8% !important;
+}
+.copy {
+  display: inline;
+  font-size: 1.2em;
+}
+.div-icon {
+  margin-left: 50%;
+}

@@ -1,0 +1,23 @@
+html, body {
+  font-family: 'ABeeZee' !important;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+.nav-wrapper {
+  margin-left: 12%;
+  margin-right: 12%;
+}
+nav {
+  background: linear-gradient(to bottom, #0055ab 0%, #455697 100%);
+  z-index: 1 !important;
+}
+.autocomplete {
+  color: whitesmoke;
+  font-size: 1em !important;
+}
+li a {
+  font-size: 1.3em !important;
+}
+.prefix {
+  margin-top: -.2em;
+}

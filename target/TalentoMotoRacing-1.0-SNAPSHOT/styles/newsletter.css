@@ -1,0 +1,29 @@
+.page-content {
+    width: 80%;
+    margin-left: 29%;
+ }
+.titulo-newslatter {
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.btn-submit {
+    width: 100%;
+}
+input {
+    font-size: 1.2em !important;
+    width: 51% !important;
+    margin-bottom: 5% !important;
+}
+button {
+    background-color: #0055ab !important;
+    width: 51%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+html, body {
+    height: 100%;
+}
+.content {
+    height: 100%;
+}
