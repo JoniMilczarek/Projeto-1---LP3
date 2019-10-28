@@ -20,6 +20,15 @@ app.get('/clients/create', function(req, res) {
     res.sendfile("public/pages/cadastro.html");
 });
 
+app.get('/login', function(req, res) {
+    res.sendfile("public/pages/login.html");
+});
+
+app.post('/login', function(req, res) {
+    return res.send({status: "ok"});
+});
+
+
 app.listen(3000, function () {
     console.log('Example app listening on port 3000!');
 });
