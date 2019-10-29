@@ -13,3 +13,7 @@
 .header {
 	height: 60px;
 }
+
+.card-content .price {
+	font-weight: bold;
+}

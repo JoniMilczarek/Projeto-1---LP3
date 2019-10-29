@@ -10,7 +10,6 @@
 .btn-submit {
     width: 100%;
 }
-<<<<<<< HEAD
 input {
     font-size: 1.2em !important;
     width: 51% !important;
@@ -21,11 +20,9 @@ button {
     width: 51%;
     margin-top: 5%;
     margin-bottom: 5%;
-=======
 html, body {
     height: 100%;
 }
 .content {
     height: 100%;
->>>>>>> e130dba3634e8412445d594dbf42988f21161087
 }

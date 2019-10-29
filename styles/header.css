@@ -2,6 +2,7 @@ html, body {
   font-family: 'ABeeZee' !important;
   overflow-y: hidden;
   overflow-x: hidden;
+  height: 100%;
 }
 .nav-wrapper {
   margin-left: 12%;
@@ -20,4 +21,45 @@ li a {
 }
 .prefix {
   margin-top: -.2em;
+}
+.hover-teste {
+  position: relative;
+}
+.cart_itens {
+  position: absolute;
+  right: -120px;
+  top: 50px;
+  width: 300px;
+  background-color: white;
+  height: 500px;
+  z-index: 1;
+}
+.item {
+  color: #000;
+  padding: 10px;
+  border: 1px solid #0055ab;
+  display: flex;
+}
+.shopping-cart-quantity {
+  position: absolute;
+  top: -17px;
+  font-size: 12px;
+}
+.cart-img {
+  width: 64px;
+  height: 64px;
+  object-fit: cover;
+  object-position: center;
+  
+}
+.cart-item-title {
+  width: 60%;
+  padding: 0 5px;
+}
+.cart-item-price {
+  width: 30%;
+}
+
+.hover_teste:hover {
+
 }
