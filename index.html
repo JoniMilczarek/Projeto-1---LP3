@@ -16,8 +16,29 @@
     <section class="pattern">
       <object class="header" type="text/html" data="pages/header.html"></object>
     </section>
-    <div class="banner">
-      <h1>Apaixonados por velocidade, assim como você.</h1>
+    <div class="slideshow-container">
+
+      <div class="mySlides fade">
+        <img class="img-responsive" src="./components/moto.jpg">
+      </div>
+    
+      <div class="mySlides fade">
+        <img class="img-responsive" src="./components/moto2.jpg">
+      </div>
+    
+      <div class="mySlides fade">
+        <img class="img-responsive" src="./components/moto3.jpg">
+      </div>
+
+      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+      <a class="next" onclick="plusSlides(1)">&#10095;</a>
+    </div>
+    <br>
+    
+    <div style="text-align:center">
+      <span class="dot" onclick="currentSlide(1)"></span>
+      <span class="dot" onclick="currentSlide(2)"></span>
+      <span class="dot" onclick="currentSlide(3)"></span>
     </div>
     <div class="divider"></div>
     <div class="container">
@@ -177,4 +198,6 @@
   </body>
   <script src="scripts/jquery-3.4.1.min.js"></script>
   <script src="scripts/materialize.js"></script>
+  <script src="./scripts/carousel.js"></script>
+
 </html>
