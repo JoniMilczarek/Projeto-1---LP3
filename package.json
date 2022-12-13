@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/JoniMilczarek/Projeto-1---LP3#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nodemon": "^1.19.4",
     "pg": "^7.12.1",
     "rxjs": "^6.5.3"
